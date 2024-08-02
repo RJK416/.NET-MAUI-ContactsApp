@@ -14,6 +14,7 @@ namespace ContactsApp.Server
             new AppContact("John", "Doe", "123-456-7890", "john.doe@example.com", "123 Elm Street"),
             new AppContact("Jane", "Smith", "098-765-4321", "jane.smith@example.com", "456 Oak Avenue"),
             new AppContact("Mariah", "Garcia", "598-765-4321", "Mariah.Garcia@example.com", "23 Oak Avenue"),
+            new AppContact("Judah", "Jebedaiah", "594-094-2331", "Mariah.Garcia@example.com", "23 Oak Avenue"),
         };
 
         public static List<AppContact> Contacts  = _contacts;
